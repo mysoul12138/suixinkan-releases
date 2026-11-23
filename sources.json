@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updated": "2026-11-23",
+  "default": "normal",
+  "sources": [
+    {
+      "key": "normal",
+      "name": "普通源 · 1080P",
+      "url": "http://fty.888484.xyz/tv"
+    },
+    {
+      "key": "4k",
+      "name": "4K 源 · 需网盘",
+      "url": "https://xn--cnq85d.52011.top/b?id=8"
+    }
+  ]
+}
